@@ -14,7 +14,7 @@ class OrderVC: BaseViewController {
     var indexOfQuestions: Int = 0
     let questions: [String] = [
         "To claim different and separate existence from you, she should possess different individual existence; which should be:\n\n1. One. \n2. Self-generated. \n3. Existing as a person without your mind's label of \"person.\"",
-                "1. If she is not one, can she be counted as a one being?\n2. If she is a product of everything else, can she be counted as self-produced?\n3. If she existed without the label \"person\", was she a person before you named her \"person\"?"
+        "1. If she is not one entity, she can't be considered one entity\n2. If she is a product of everything else and their essence, she doesn't possess any individual essence\n3. The body and mind can exist without the label \"person\", thus they were not a person until you labeled these parts \"person\" and believed in that."
     ]
     
     let alertMsg = "We understand this is not easy; however, your answer is incorrect."

@@ -15,7 +15,7 @@ class IntroVC: BaseViewController {
     let questions: [String] = [
         "Does this person appear to exist separately from you?",
         "Do you experience this person as someone different from you?",
-        "To your senses, the person appears to possess a separate existence from yours. Let's verify if your senses are showing you correctly how she exists? \n\nAre you ready?"
+        "To your senses, the person appears to possess a separate existence from yours. Let's verify if your senses are showing you correctly how she exists \n\nAre you ready?"
     ]
     
     let alertMsg = "Your senses are functioning correctly, indicating a deep understanding and uncorrupted senses.\n Consider that all beings are manifestations of the same universal physical and non-physical elements, without individual ability to generate themselves; thus, everyone is identical and shares a common origin.\n There are no differences between people, except for relative ones, like you, me, short or tall which arise through concepts invented and projected by our minds. This realization is the path to true peace and happiness.\n Since you and this person are without individual existence, any action against this person is equivalent to action against yourself and vice versa.\n You may not need this app, but feel free to use it to understand the situation further."
