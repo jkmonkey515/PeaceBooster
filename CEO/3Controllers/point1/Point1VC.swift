@@ -20,7 +20,7 @@ class Point1VC: BaseViewController {
     ]
     
     let alertMsg: [String] = [
-        "Correct. The person is not one entity because she is made of parts and halves.\nCongratulations! You have completed Step #1.",
+        "Correct! In Step 1 you’ve recognized that this person is not one entity but a composite of various parts and halves. \n By acknowledging this, you’ve taken the first step towards understanding the true nature of existence.\n Remember, she is not a single entity and this realization sets the foundation for the next steps in discovering the profound sameness and interconnectedness we all share. \n\n Congratulations! You’ve completed Step #1. ",
         "Really? In that case, something is not right with your phone's display, but please keep going.",
         "We understand this is not easy; however, your answer is incorrect."
         ]
