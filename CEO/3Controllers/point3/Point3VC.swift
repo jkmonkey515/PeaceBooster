@@ -27,7 +27,14 @@ class Point3VC: BaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        self.title = "3.Is your mind's label needed?"
+        let label = UILabel()
+        label.backgroundColor = .clear
+        label.numberOfLines = 0
+        label.font = UIFont.boldSystemFont(ofSize: 16.0)
+        label.textAlignment = .center
+        label.textColor = .label
+        label.text = "3.Is your mind's label needed?"
+        self.navigationItem.titleView = label
         questionLabel.text = questions[indexOfQuestions]
         
         navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(onShareAction))
