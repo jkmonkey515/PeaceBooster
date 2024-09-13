@@ -14,7 +14,7 @@ class Point2VC: BaseViewController {
     var indexOfQuestions: Int = 0
     let questions: [String] = [
         "Did she bring herself into existence alone?",
-        "Did she produce and assemble her countless parts alone?",
+        "Did she bring herself into existence through her own nature, producing and assembling all the countless parts?",
         "Did she produce herself alone without parents or laboratory procedure?"
     ]
     

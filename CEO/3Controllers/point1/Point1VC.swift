@@ -15,7 +15,7 @@ class Point1VC: BaseViewController {
     
     var indexOfQuestions: Int = 0
     let questions: [String] = [
-        "Can you see that the person is not one thing but made of parts?",
+        "Can you see that the person is not one entity, but is composed of parts?",
         "Do you see the green squares indicating the parts?"
     ]
     
