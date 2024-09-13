@@ -13,8 +13,8 @@ class OrderVC: BaseViewController {
     
     var indexOfQuestions: Int = 0
     let questions: [String] = [
-        "To claim different and separate existence from you, she should possess different individual existence; which should be:\n\n1. One. \n2. Self-generated. \n3. Existing as a person without your mind's label of \"person.\"",
-        "1. If she is not one entity, she can't be considered one entity\n2. If she is a product of everything else and their essence, she doesn't possess any individual essence\n3. The body and mind can exist without the label \"person\", thus they were not a person until you labeled these parts \"person\" and believed in that."
+        "To claim different and separate existence from yours, she must have an individual existence that is::\n\n1. One. \n2. Self-generated. \n3. Existing as a person independently of your mind's label of \"person.\"",
+                "1. If she is not one entity, she cannot be regarded as one. If she is not one, there can't be a second or third entity,etc.\n2. If she is a product of everything else and their essence, she does not have an individual essence.\n3. The body and mind can exist without the label 'person'; they only became a person when you applied that label and believed it."
     ]
     
     let alertMsg = "We understand this is not easy; however, your answer is incorrect."

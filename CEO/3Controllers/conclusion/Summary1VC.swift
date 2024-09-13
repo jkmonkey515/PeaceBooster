@@ -14,9 +14,9 @@ class Summary1VC: BaseViewController {
     var indexOfQuestions: Int = 0
     let questions: [String] = [
         "In the beginning, you said that the person appears to exist separately from you.",
-        "You recognized that to claim a true individual existence she and you need to be two different existences, thus each of you has to be::\n1. one being. \n2. self-generated. \n3. existing as different without your mind\''s labels \"person\" and \"me\".\n\nHowever, you completed all 3 steps and found the opposite to be true about both of you",
+        "You recognized that to claim a true individual existence she and you need to be two different existences, thus each of you has to be::\n1. one entity. \n2. self-generated. \n3. existing as different independently of your mind\'s labels.\n\nHowever, you completed all 3 steps and found the opposite to be true about both of you.",
         "You discovered that this person is:\n1. not one entity.\n2. unable to self-produce.\n3. Needs your mind\'s label to exist as different.",
-        "Conclusion: it appears to your mind that she and you possess different existences, but when examined, nobody does.\n This proves that your senses are lying to you because she and you appear to possess individual existence, but that is not true.",
+        "Conclusion: it appears to your mind that she and you are two different existences, but when examined, nobody does.\n This proves that your senses are lying to you because she and you appear to possess individual existence, but that is not true.",
         "Since you both share the same existence, what is the difference between you two?"
     ]
     

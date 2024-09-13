@@ -13,7 +13,7 @@ class Point3VC: BaseViewController {
     
     var indexOfQuestions: Int = 0
     let questions: [String] = [
-        "Can the body parts exist as a person without your mind\'s label of \"person\"?",
+        "Can the body parts your mind perceives exist as a person without your mind’s label of \"person\"?",
         "If you did not label the body parts a \"person\", would they exist to you as a person?",
         "If the body parts were already a person, would it make sense to label them a \"person\" again?",
         "These body parts existed without any label until the label \"person\" was created and projected by your mind for convenience's sake. This way, everybody can function in concepts as different."
@@ -27,7 +27,7 @@ class Point3VC: BaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        self.title = "3. Does she need a label?"
+        self.title = "3.Is your mind's label needed?"
         questionLabel.text = questions[indexOfQuestions]
         
         navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(onShareAction))

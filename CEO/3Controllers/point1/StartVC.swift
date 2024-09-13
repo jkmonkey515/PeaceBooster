@@ -46,7 +46,7 @@ class StartVC: BaseViewController {
         attributedLinkString1 = NSMutableAttributedString(string: "Nāgārjuna's", attributes: linkAtt)
         let plainString2 = NSMutableAttributedString(string: " discovery of how everything exists, ", attributes: nil)
         
-        let plainString3 = NSMutableAttributedString(string: "this insight is named ", attributes: nil)
+        let plainString3 = NSMutableAttributedString(string: "this insight is called ", attributes: nil)
         attributedLinkString2 = NSMutableAttributedString(string: "Emptiness", attributes: linkAtt)
         let plainString4 = NSMutableAttributedString(string: " of individual existence.", attributes: nil)
         
