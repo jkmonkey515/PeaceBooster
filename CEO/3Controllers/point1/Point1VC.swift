@@ -31,7 +31,15 @@ class Point1VC: BaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        self.title = "1. Is she one entity?"
+        let label = UILabel()
+        label.backgroundColor = .clear
+        label.numberOfLines = 0
+        label.font = UIFont.boldSystemFont(ofSize: 16.0)
+        label.textAlignment = .center
+        label.textColor = .label
+        label.text = "1. Is she one entity?"
+        self.navigationItem.titleView = label
+        
         questionLabel.text = questions[indexOfQuestions]
         
         mChoppedCollView.delegate = self
